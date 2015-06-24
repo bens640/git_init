@@ -76,4 +76,4 @@ def test
 
 end
 
-test
+testputs "Hey, Ben! Danny was here."
